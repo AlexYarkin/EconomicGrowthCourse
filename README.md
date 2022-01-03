@@ -9,7 +9,6 @@ but no advanced calculus or statistics.
 No textbook is required for the course. However, "Economic Growth" by David Weil (3rd edition, Routledge) is a great 'companion' textbook that complements many of the lectures
 and topics covered in the course.
 
-According the rules of Brown University, I can not share video lectures from the course. However, I can share the syllabus, lecture slides, assignments, and other course content. 
-All these materials can be found in corresponding folders within the main repository. 
+According to the rules of Brown University, I can not share video lectures from the course. However, I can share the syllabus, lecture slides, assignments, and other course content. All these materials can be found in corresponding folders within the main repository. 
 
 This course was developed by [Alexader Yarkin](https://sites.google.com/brown.edu/alexyarkin) at the [Department of Economics](https://economics.brown.edu/), Brown University. 
