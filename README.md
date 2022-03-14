@@ -11,4 +11,4 @@ and topics covered in the course.
 
 According to the rules of Brown University, I can not share video lectures from the course. However, I can share the syllabus, lecture slides, assignments, and other course content. All these materials can be found in corresponding folders within the main repository. 
 
-This course was developed by [Alexader Yarkin](https://sites.google.com/brown.edu/alexyarkin) at the [Department of Economics](https://economics.brown.edu/), Brown University. 
+This course was developed by [Alexander Yarkin](https://sites.google.com/brown.edu/alexyarkin) at the [Department of Economics](https://economics.brown.edu/), Brown University. 
